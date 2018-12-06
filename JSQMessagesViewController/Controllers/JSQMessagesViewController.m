@@ -34,7 +34,7 @@
 #import "NSBundle+JSQMessages.h"
 
 #import <objc/runtime.h>
-
+#import "JSQMessagesInputToolbar.h"
 
 // Fixes rdar://26295020
 // See issue #1247 and Peter Steinberger's comment:
